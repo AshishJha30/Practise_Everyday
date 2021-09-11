@@ -5,6 +5,6 @@ int main(){
     int n;
     cout << "Enter a number:" << endl; 
     cin >> n;
-    cout << "User entered number: " << n << endl;
+    cout << "You entered: " << n << endl;
     return 0;
 }
