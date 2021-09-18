@@ -26,7 +26,6 @@ int main(){
         return 0;
 }
 
-
 int primeNumber(int n) {
     bool isPrime = true;
 
